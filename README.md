@@ -1,5 +1,5 @@
 # ajax_CRUD
-Ajax crud and mail send
+Ajax Crud and mail send
 ![email part10](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/2a3735f7-a88a-442b-a640-ca764f93062c)
 ![email part9](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/e52d03b7-34e1-4321-a0f8-2244cd082dd8)
 ![email part8](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/5e1c01fa-41d9-4d7a-8042-bb99faf48c70)
