@@ -1,2 +1,16 @@
 # ajax_CRUD
 Ajax crud and mail send
+![email part10](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/2a3735f7-a88a-442b-a640-ca764f93062c)
+![email part9](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/e52d03b7-34e1-4321-a0f8-2244cd082dd8)
+![email part8](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/5e1c01fa-41d9-4d7a-8042-bb99faf48c70)
+![email part7](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/d85c54a0-f74a-4f76-bb68-e1c2f0e12bd7)
+![email part6](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/7a2a3c85-1a59-43b7-990d-f708fad7b3ab)
+![email part5](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/20b5a5b6-d0f2-4600-b6a2-4c50292e6e57)
+![email part4](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/789acc0b-1373-4a65-b772-f672af7eac74)
+![email part3](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/bfd760b7-f69b-4406-8e06-5f775c3fcc27)
+![email part2](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/67081292-31a2-446b-9d5f-c71cc220747d)
+![email part1](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/d2a28f7e-071c-43b1-b2eb-3987bf2f5018)
+![readme3](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/9bbd7eb2-8d77-4d00-abab-876bdf9eaf78)
+![readme2](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/7d66f013-2360-4264-849b-3fd3b9a31ff1)
+![readme1](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/f276d4e5-19fc-467b-8eb9-f0c3be860a19)
+![email part11](https://github.com/afrinsultana98/ajax_CRUD/assets/86249619/5caa0d32-9fd7-4dd4-b53f-a3c00df6f8c1)
